@@ -1,0 +1,28 @@
+{
+  "name": "is-nth",
+  "version": "0.0.1",
+  "description": "Checks if value is the nth value",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvhenten/is-nth.git"
+  },
+  "keywords": [
+    "counter",
+    "isNth",
+    "everyNth",
+    "nth"
+  ],
+  "author": "Matthijs van Henten <matthijs@ischen.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvhenten/is-nth/issues"
+  },
+  "homepage": "https://github.com/mvhenten/is-nth#readme",
+  "devDependencies": {
+    "tape": "^4.4.0"
+  }
+}
